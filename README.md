@@ -3,9 +3,11 @@ my first repository
 
 ### MY FAVOURITE MOVIE
 
-
-![Interstellar](![Interstellar](![interstellar](https://github.com/user-attachments/assets/c3865c84-d702-4d78-bea7-6ded1c0a07ea)))
 [INTERSTELLAR (2014)](https://www.imdb.com/title/tt0816692/)
+
+![interstellar](https://github.com/user-attachments/assets/accc06de-c9ae-41ba-b85b-1e5094a88126)
+
+**TAGS**
   -	**SCI-FI**
   -	**TIME TRAVEL**
   -	**HEARTFELT**
